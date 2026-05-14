@@ -1,15 +1,18 @@
 {
-  "short_name": "Golf Score",
-  "name": "Golf Scorecard & Stableford",
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#166534",
-  "background_color": "#ffffff",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64",
-      "type": "image/x-icon"
-    }
-  ]
+  "name": "golf-scorecard",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "browserslist": {
+    "production": [">0.2%", "not dead", "not op_mini all"],
+    "development": ["last 1 chrome version"]
+  }
 }
