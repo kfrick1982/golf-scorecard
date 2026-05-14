@@ -1,0 +1,15 @@
+{
+  "short_name": "Golf Score",
+  "name": "Golf Scorecard & Stableford",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#166534",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
